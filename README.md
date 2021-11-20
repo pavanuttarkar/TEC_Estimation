@@ -8,3 +8,7 @@ This package requires the following modules to work
   4. mpld3
 
 Everyday a plot of the TEC and Ionospheric delay is produced, and updated at midnight, local time. An example plot can be seen here,
+<p align="center">
+<img src="Figures/19-11-2021.png" alt="drawing" width="700"/>
+Figure 1: The TEC values estimated ionospheric delay
+</p>
